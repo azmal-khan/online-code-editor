@@ -23,7 +23,12 @@ A lightweight CodePen clone built with React that allows users to write and prev
 - 🎀 **CSS** – Styling the layout and UI  
 - 🧱 **HTML + JavaScript** – Code execution and preview rendering  
 - 🛠️ **Visual Studio Code (VS Code)** – Development environment used
-=======
+===
+
+## 🖥️ Live Demo
+
+Check out the live version here 👉 [online-code-editor1.netlify.app](http://online-code-editor1.netlify.app)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
